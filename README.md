@@ -68,7 +68,3 @@ For any questions or guidance, you can reach out to the contributors and maintai
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/bspippi1337/alleycat/blob/master/LICENSE) file for details.
-
----
-
-Feel free to customize this README further to fit your specific needs.
